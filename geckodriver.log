@@ -1,0 +1,115 @@
+1515765193292	geckodriver	INFO	Listening on 127.0.0.1:57170
+1515765195871	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515765203913	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515765237133	Marionette	INFO	Listening on port 57177
+1515765238379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515765238812	Marionette	DEBUG	Register listener.js for window 4294967297
+1515765240036	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515765246716	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515765246717	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515765253464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515765276538	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+ 57367
+1515765365425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515765366340	Marionette	DEBUG	Register listener.js for window 4294967297
+1515765366473	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515765367161	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515765367162	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515765368629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515765369100	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+dministrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515765841322	Marionette	INFO	Listening on port 57651
+1515765842070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515765842372	Marionette	DEBUG	Register listener.js for window 4294967297
+1515765842525	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515765843346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515765843347	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515765844305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515765845144	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+dministrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515766298704	Marionette	INFO	Listening on port 57867
+1515766299235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515766299545	Marionette	DEBUG	Register listener.js for window 4294967297
+1515766299673	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515766301769	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515766301771	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515766302989	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515766303322	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515766355432	geckodriver	INFO	Listening on 127.0.0.1:57938
+1515766357381	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515766362284	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515766377246	Marionette	INFO	Listening on port 57944
+151571515766377804	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515766386771	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515766399074	Marionette	INFO	Listening on port 57989
+1515766400008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515766400227	Marionette	DEBUG	Register listener.js for window 4294967297
+1515766400507	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515766402630	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515766402631	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515766403868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515766404317	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515766590368	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GFX1-]: Receive IPC close with reason=AbnormalShut[downG
+FX1-]: Receive IPC close with reason=AbnormalShutdown
+ionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515766453944	Marionette	INFO	Listening on port 58094
+1515766454732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515766455113	Marionette	DEBUG	Register listener.js for window 4294967297
+1515766455176	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515766456837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515766456838	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515766458592	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515766463483	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515766590033	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515766582789	Marionette	INFO	Listening on port 58220
+1515766583627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515766583904	Marionette	DEBUG	Register listener.js for window 4294967297
+1515766687165	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+tte	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515766623647	Marionette	INFO	Enabled via --marionette
+1515766648357	Marionette	INFO	Listening on port 58291
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1515766648955	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515766650349	Marionette	DEBUG	Register listener.js for window 4294967297
+[GFX1-]: Could not get a DXGI adapter
+1515766758386	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
